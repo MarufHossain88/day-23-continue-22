@@ -1,10 +1,3 @@
-<?php
-
-
-?>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,15 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <title>Heroic Features - Start Bootstrap Template</title>
-
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Custom styles for this template -->
     <link href="assets/css/heroic-features.css" rel="stylesheet">
-
 </head>
 
 <body>
@@ -135,7 +124,7 @@
 </footer>
 
 <!-- Bootstrap core JavaScript -->
-<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
 
 </body>
